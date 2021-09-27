@@ -1,0 +1,9 @@
+<launch>
+  <node name="obstacle_node" pkg="obstacle_avoidance" type="obstacle_avoidance.py" output="screen">
+  </node>
+</launch>
+
+
+
+
+
